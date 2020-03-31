@@ -3,6 +3,7 @@ module genPackageVersion.genDdocMacros;
 
 import std.array;
 import std.string : toUpper;
+import std.path;
 
 import scriptlike.only;
 import genPackageVersion.util;
