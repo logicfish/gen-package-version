@@ -2,6 +2,7 @@
 module genPackageVersion.genDModule;
 
 import std.array;
+import std.path;
 import scriptlike.only;
 
 import genPackageVersion.util;
